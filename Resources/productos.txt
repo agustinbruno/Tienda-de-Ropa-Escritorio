@@ -1,0 +1,6 @@
+0,asd,asd,True
+0,asd,asd,True
+0,asd,asd,True
+0,asd,123,True
+0,asdf,asdf,True
+0,PRUEBAAA,PRUEBAAA,True
